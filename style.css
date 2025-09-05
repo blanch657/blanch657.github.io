@@ -73,7 +73,7 @@ main {
 }
 
 h2, h3 {
-    margin: 0px;
+    margin: 0;
 }
 
 /* Portfolio styles */
@@ -124,7 +124,7 @@ h2, h3 {
 
   #all-contents {
     height: 100ch;
-    margin: none;
+    margin: 0px;
   }
 
   a {
@@ -132,7 +132,7 @@ h2, h3 {
   }
 
   .sidebar {
-    margin-right: 0px;
+    margin-right: 0;
     justify-content: center;
     align-items: center;
   }
