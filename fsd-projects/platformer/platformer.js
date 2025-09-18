@@ -27,7 +27,7 @@ $(function () {
     //////////////////////////////////
 
     // TODO 1 - Enable the Grid
-    toggleGrid();
+    //toggleGrid();
 
     // TODO 2 - Create Platforms
     createPlatform(700, 600, 120, 20, "pink");
@@ -43,8 +43,8 @@ $(function () {
     
     // TODO 4 - Create Cannons
     createCannon("top", 200, 1000);
-    createCannon("right", 300, 2000);
-    createCannon("left", 500, 920);
+    createCannon("right", 450, 2000);
+    createCannon("left", 500, 956);
     
     //////////////////////////////////
     // ONLY CHANGE ABOVE THIS POINT //
